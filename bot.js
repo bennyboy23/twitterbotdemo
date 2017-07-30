@@ -1,3 +1,4 @@
-alert("hello world!");
 
-
+start = function(){
+    alert("hello world");
+}
