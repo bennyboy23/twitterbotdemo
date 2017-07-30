@@ -1,3 +1,3 @@
-console.log('bot starting');
+alert("hello world!");
 
 
